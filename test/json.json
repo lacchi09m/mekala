@@ -1,0 +1,12 @@
+
+
+[ 
+    {
+        "someId": "signInInput",
+        "sendSomeKeys": "j@j.com"
+    },
+    {
+        "someId": "passwordInput",
+        "sendSomeKeys": "password"
+    }
+]
